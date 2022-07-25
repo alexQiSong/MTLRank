@@ -1,1 +1,0 @@
-This repository contains scripts for modeling regulatory networks using MTLRANK framework.
