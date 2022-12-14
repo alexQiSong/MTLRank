@@ -1,0 +1,12 @@
+singularity/
+old/
+data/atac/
+data/chipseq_bed/
+data/chipseq_qc/
+data/gtf/
+data/processed/
+data/rna/
+data/tf_list/
+results/
+environment1.yml
+nohupout
