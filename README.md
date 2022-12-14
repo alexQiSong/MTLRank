@@ -35,7 +35,7 @@ This will automatically download most of the required data.
 python preprocess.py --n_jobs 30
 ```
 
-5. Run MTLRank pipeline using the jupyter notebookes `MTLRank_step1_train.ipynb`, `MTLRank_step2_rankTF.ipynb`, and `MTLRank_step3_GRN.ipynb` by following the order specified by the names. We provide more detailed instructions in each notebook.
+5. Run MTLRank pipeline using the jupyter notebookes `MTLRank_step1_train.ipynb`, `MTLRank_step2_rankTF.ipynb`, and `MTLRank_step3_GRN.ipynb` by following the order specified by the names. We provide more detailed instructions in each notebook, including the the suggested settings of hyperparameters.
 
 ### Contact
 Contact us if you have any questions:  
