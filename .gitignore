@@ -1,4 +1,5 @@
 singularity/
+__pycache__/
 old/
 data/atac/
 data/chipseq_bed/
@@ -8,5 +9,6 @@ data/processed/
 data/rna/
 data/tf_list/
 results/
+.gitignore
 environment1.yml
 nohupout
