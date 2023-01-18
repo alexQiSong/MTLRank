@@ -1,4 +1,5 @@
 # MTLRank
+[![DOI](https://zenodo.org/badge/515298616.svg)](https://zenodo.org/badge/latestdoi/515298616)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
